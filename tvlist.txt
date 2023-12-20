@@ -1,0 +1,730 @@
+{
+    "live": [
+        {
+            "itemid": "uid0000",
+            "name": "cctv1-HD",
+            "num": "00001",
+            "urllist": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001068/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "cctv2-HD",
+            "num": "00002",
+            "urllist": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001293/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "cctv3-HD",
+            "num": "00003",
+            "urllist": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001598/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "cctv4-HD",
+            "num": "00004",
+            "urllist": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001290/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "cctv5-HD",
+            "num": "00005",
+            "urllist": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001850/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "cctv5+",
+            "num": "00006",
+            "urllist": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001008/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "cctv6-HD",
+            "num": "00007",
+            "urllist": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001859/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "cctv7-HD",
+            "num": "00008",
+            "urllist": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001291/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "cctv8-HD",
+            "num": "00009",
+            "urllist": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001869/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "cctv9-HD",
+            "num": "00010",
+            "urllist": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001294/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "cctv10-HD",
+            "num": "00011",
+            "urllist": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001288/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "cctv11-HD",
+            "num": "00012",
+            "urllist": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001327/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "cctv12-HD",
+            "num": "00013",
+            "urllist": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001289/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "cctv13-HD",
+            "num": "00014",
+            "urllist": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001328/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "cctv14-HD",
+            "num": "00015",
+            "urllist": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001292/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "cctv15-HD",
+            "num": "00016",
+            "urllist": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001020/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "cctv16-HD",
+            "num": "00017",
+            "urllist": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000002395/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "cctv17-HD",
+            "num": "00018",
+            "urllist": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001295/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "CGTN",
+            "num": "00019",
+            "urllist": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001024/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "CHC-动作电影",
+            "num": "00020",
+            "urllist": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "CHC-高清电影",
+            "num": "00021",
+            "urllist": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "CHC-家庭影院",
+            "num": "00022",
+            "urllist": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "欢笑剧场4K",
+            "num": "00023",
+            "urllist": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "都市剧场-HD",
+            "num": "00024",
+            "urllist": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000002108/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "陕西卫视",
+            "num": "00025",
+            "urllist": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001062/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "陕西一套",
+            "num": "00026",
+            "urllist": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001719/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "陕西二套",
+            "num": "00027",
+            "urllist": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001593/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "陕西三套",
+            "num": "00028",
+            "urllist": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001729/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "陕西四套",
+            "num": "00029",
+            "urllist": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001730/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "陕西五套",
+            "num": "00030",
+            "urllist": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001739/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "陕西七套",
+            "num": "00031",
+            "urllist": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001594/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "陕西八套",
+            "num": "00032",
+            "urllist": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001749/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "西安教育台",
+            "num": "00033",
+            "urllist": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001789/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "咸阳",
+            "num": "00034",
+            "urllist": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001799/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "北京卫视-极清",
+            "num": "00035",
+            "urllist": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001335/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "东方卫视-极清",
+            "num": "00036",
+            "urllist": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001336/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "广东卫视-极清",
+            "num": "00037",
+            "urllist": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001337/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "湖南卫视-极清",
+            "num": "00038",
+            "urllist": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001339/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "辽宁卫视-极清",
+            "num": "00039",
+            "urllist": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001340/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "山东卫视-极清",
+            "num": "00040",
+            "urllist": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001341/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "深圳卫视-极清",
+            "num": "00041",
+            "urllist": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001342/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "天津卫视-极清",
+            "num": "00042",
+            "urllist": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001343/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "江苏卫视-极清",
+            "num": "00043",
+            "urllist": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001344/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "浙江卫视-极清",
+            "num": "00044",
+            "urllist": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001345/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "安徽卫视-极清",
+            "num": "00045",
+            "urllist": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001346/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "湖北卫视-极清",
+            "num": "00046",
+            "urllist": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001347/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "黑龙江卫视-极清",
+            "num": "00047",
+            "urllist": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001338/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "浙江卫视-HD",
+            "num": "00048",
+            "urllist": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001026/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "湖南卫视-HD",
+            "num": "00049",
+            "urllist": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001027/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "江苏卫视-HD",
+            "num": "00050",
+            "urllist": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001032/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "东方卫视-HD",
+            "num": "00051",
+            "urllist": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001028/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "北京卫视-HD",
+            "num": "00052",
+            "urllist": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001025/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "辽宁卫视-HD",
+            "num": "00053",
+            "urllist": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001296/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "重庆卫视-HD",
+            "num": "00054",
+            "urllist": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001297/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "安徽卫视-HD",
+            "num": "00055",
+            "urllist": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001298/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "湖北卫视-HD",
+            "num": "00056",
+            "urllist": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001299/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "广东卫视-HD",
+            "num": "00057",
+            "urllist": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001031/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "深圳卫视-HD",
+            "num": "00058",
+            "urllist": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001029/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "黑龙江卫视-HD",
+            "num": "00059",
+            "urllist": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001030/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "山东卫视",
+            "num": "00060",
+            "urllist": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001053/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "广西卫视",
+            "num": "00061",
+            "urllist": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001054/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "海南卫视",
+            "num": "00062",
+            "urllist": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "四川卫视",
+            "num": "00063",
+            "urllist": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001036/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "河南卫视",
+            "num": "00064",
+            "urllist": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001056/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "东南卫视",
+            "num": "00065",
+            "urllist": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001044/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "天津卫视",
+            "num": "00066",
+            "urllist": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001037/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "江西卫视",
+            "num": "00067",
+            "urllist": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001045/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "吉林卫视",
+            "num": "00068",
+            "urllist": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001049/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "山西卫视",
+            "num": "00069",
+            "urllist": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001038/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "贵州卫视",
+            "num": "00070",
+            "urllist": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001048/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "青海卫视",
+            "num": "00071",
+            "urllist": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001033/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "云南卫视",
+            "num": "00072",
+            "urllist": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001046/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "河北卫视",
+            "num": "00073",
+            "urllist": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001039/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "宁夏卫视",
+            "num": "00074",
+            "urllist": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001061/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "新疆卫视",
+            "num": "00075",
+            "urllist": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001047/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "甘肃卫视",
+            "num": "00076",
+            "urllist": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001059/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "西藏卫视",
+            "num": "00077",
+            "urllist": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001302/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "兵团卫视",
+            "num": "00078",
+            "urllist": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001304/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "厦门卫视",
+            "num": "00079",
+            "urllist": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001306/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "延边卫视",
+            "num": "00080",
+            "urllist": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001307/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "安多卫视",
+            "num": "00081",
+            "urllist": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001311/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "农林卫视",
+            "num": "00082",
+            "urllist": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001312/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "康巴卫视",
+            "num": "00083",
+            "urllist": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001313/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "内蒙古卫视",
+            "num": "00084",
+            "urllist": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001035/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "大湾区卫视",
+            "num": "00085",
+            "urllist": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001305/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "优漫卡通",
+            "num": "00086",
+            "urllist": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "炫动卡通",
+            "num": "00087",
+            "urllist": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001303/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "嘉佳卡通",
+            "num": "00088",
+            "urllist": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001310/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "卡酷少儿",
+            "num": "00089",
+            "urllist": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001066/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "卡酷少儿",
+            "num": "00090",
+            "urllist": "http://tv.328326.com/iptv/tvzb97.php?id=kkse"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "金鹰卡通",
+            "num": "00091",
+            "urllist": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001067/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "金鹰纪实-HD",
+            "num": "00092",
+            "urllist": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001699/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "上海纪实-HD",
+            "num": "00093",
+            "urllist": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001330/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "山东教育电视台",
+            "num": "00094",
+            "urllist": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001317/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "乐游",
+            "num": "00095",
+            "urllist": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000002157/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "游戏风云",
+            "num": "00096",
+            "urllist": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000002295/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "快乐垂钓",
+            "num": "00097",
+            "urllist": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000002264/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "茶",
+            "num": "00098",
+            "urllist": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000002305/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "金色学堂",
+            "num": "00099",
+            "urllist": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000002675/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "女性时尚",
+            "num": "00100",
+            "urllist": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000002475/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "世界地理",
+            "num": "00101",
+            "urllist": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000002485/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "怀旧剧场",
+            "num": "00102",
+            "urllist": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000002495/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "风云剧场",
+            "num": "00103",
+            "urllist": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000002505/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "兵器科技",
+            "num": "00104",
+            "urllist": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000002515/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "风云音乐",
+            "num": "00105",
+            "urllist": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000002525/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "央视台球",
+            "num": "00106",
+            "urllist": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000002496/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "高尔夫网球",
+            "num": "00107",
+            "urllist": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000002497/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "第一剧场",
+            "num": "00108",
+            "urllist": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000002498/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "央视文化精品",
+            "num": "00109",
+            "urllist": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000002535/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "风云足球",
+            "num": "00110",
+            "urllist": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000002499/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "电视指南",
+            "num": "00111",
+            "urllist": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000002545/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "财富天下",
+            "num": "00112",
+            "urllist": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001689/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "置业频道",
+            "num": "00113",
+            "urllist": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001318/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "家庭理财",
+            "num": "00114",
+            "urllist": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001321/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "弈坛春秋",
+            "num": "00115",
+            "urllist": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001322/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "京视剧场",
+            "num": "00116",
+            "urllist": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001319/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "CETV-1",
+            "num": "00117",
+            "urllist": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001063/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "CETV-2",
+            "num": "00118",
+            "urllist": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001064/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "CETV-3",
+            "num": "00119",
+            "urllist": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001309/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "CETV-4",
+            "num": "00120",
+            "urllist": "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001308/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+        }
+    ],
+    "type": [
+        {
+            "id": "uid0000",
+            "name": "=未分组="
+        }
+    ]
+}
